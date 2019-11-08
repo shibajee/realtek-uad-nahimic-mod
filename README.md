@@ -1,5 +1,5 @@
 ## Instructions:
-- First uninstall current driver.
+- First uninstall current realtek audio driver.
 - Restart ur PC with Disable driver signature enforcement:
 
 Go to Settings > Update & Security > Recovery > Advanced startup > click Restart now
@@ -33,7 +33,7 @@ Only Windows 10 64bit RS5 1809 to latest windows version.
 
 - Why no 32bit support ?
 
-Bcoz ƒuck 32bit.
+ƒuck 32bit.
 
 - Which realtek audio chips are supported with this mod ?
 
@@ -42,3 +42,7 @@ Almost every audio chip they made.
 - Any plan to add multiple APO in future ?
 
 No, I like things simple and lightweight.
+
+- Any update schedule for driver ?
+
+At least once in every month.
