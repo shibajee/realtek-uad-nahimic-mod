@@ -13,6 +13,10 @@ After the restart u will get a Startup Settings page, press F7 to go into disabl
 
 Continue with the warning sign and click Install this driver software anyway. Do not restart, select I will restart my computer later.
 
+- Enable Sideload apps:
+
+Go to Settings > Update & Security > For developers > click Sideload apps and close.
+
 - Now go to UWP_BUNDLE folder and run INSTALL_UWP_BUNDLE.bat as administrator. This will install Realtek and Nahimic UWP audio control panel. Installation is silent and will close automatically.
 
 Wait 1 min to give time to install the UWP application properly.
