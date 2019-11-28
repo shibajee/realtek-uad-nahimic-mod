@@ -24,12 +24,15 @@ Wait 1 min to give time to install the UWP application properly.
 - Restart ur PC and Enjoy Nahimic.
 
 
+![alt text](https://i.imgur.com/wvtQtDZ.png)
+![alt text](https://i.imgur.com/cqc6AV3.png)
+
 
 ## FAQ:
 
 - Which Windows version is compatible ?
 
-Only Windows 10 64bit RS5 1809 to latest windows version.
+Windows 10 64bit RS5 1809 to latest whatever version.
 
 - Why no 32bit support ?
 
